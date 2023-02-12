@@ -34,7 +34,7 @@ For assessing performance the following metrics will be used: F1 score, Accuracy
 More information to be added soon.
 
 ## Participant registration
-Please refer to the general ImageCLEF registration instructions
+Please refer to the general ImageCLEF registration instructions: [https://www.imageclef.org/2023](https://www.imageclef.org/2023).
 
 ## Preliminary Schedule
 * 13 February 2023: Release of the training and validation sets
