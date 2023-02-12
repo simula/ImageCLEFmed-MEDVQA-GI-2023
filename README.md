@@ -23,7 +23,7 @@ For task 1 (VQA) and task 2 (VQG), we provide at 2,000 image samples. Not all qu
 
 For task 3 (VLQA), we provide 500 images with question and segmentation mask pairs. This part of the data will be based on the segmentation part of HyperKvasir and Kvasir Instrument.
 
-The dataet for both task can be downlaoded below.
+The dataset for both task can be downlaoded below.
 
 * **Development Dataset \[ [Download](https://drive.google.com/file/d/1jTyLWwcHzbLpWjSNwmgiiavXDjuQe5y7/view?usp=sharing) \]**
 
