@@ -1,3 +1,7 @@
+
+**Updates**
+- 01-03-2023 - *Updated dataset with instrument segmentation masks*
+
 # ImageCLEFmed-MEDVQA-GI-2023
 Identifying lesions in colonoscopy images is one of the most popular applications of artificial intelligence in medicine. Until now, the research has focused on single-image or video analysis. With this task, we aim at bringing a new aspect to the field by adding multiple modalities to the picture. The main focus of the task will be on visual question answering and visual question generation. The goal is that through the combination of text and image data the output of the analysis gets easier to use by medical experts. The task has three sub-tasks.
 
