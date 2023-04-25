@@ -42,8 +42,8 @@ Please refer to the general ImageCLEF registration instructions: [https://www.im
 
 ## Preliminary Schedule
 * 13 February 2023: Release of the training and validation sets
-* 22 April 2023: Release of the test sets
-* 22 April 2023: Registration closes
+* 28 April 2023: Release of the test sets
+* 28 April 2023: Registration closes
 * 10 May 2023: Run submission deadline
 * 17 May 2023: Release of the processed results by the task organizers
 * 5 June 2023: Submission of participant papers [CEUR-WS]
