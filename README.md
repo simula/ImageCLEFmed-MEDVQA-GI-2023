@@ -1,5 +1,6 @@
 
 **Updates**
+- 28-04-2023 - *Added testing datasert*
 - 01-03-2023 - *Updated dataset with instrument segmentation masks*
 
 # ImageCLEFmed-MEDVQA-GI-2023
@@ -48,6 +49,8 @@ To submit your entries for the CLEF 2023 Medical Visual Question Answering (MedV
 2. Name the zip file using this format: `<team_name>_clef2023_medvqa.zip`.
 3. Label the folders within the zip file as `task1`, `task2`, etc., corresponding to the respective tasks.
 4. Make sure to follow the detailed instructions and requirements for each task's submission, as described below.
+
+Submissions can be emailed to the challenge organizers; Steven Hicks (steven@simula.no) and Michael Riegler (michael@simula.no).
 
 ## Task 1: Visual Question Answering (VQA)
 For Task 1, your submission should include a JSON file with the following format:
