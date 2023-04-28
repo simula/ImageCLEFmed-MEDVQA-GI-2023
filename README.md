@@ -1,3 +1,4 @@
+Link to official GitHub repository: [https://github.com/simula/ImageCLEFmed-MEDVQA-GI-2023](https://github.com/simula/ImageCLEFmed-MEDVQA-GI-2023)
 
 **Updates**
 - 28-04-2023 - *Added testing dataset*
