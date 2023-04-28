@@ -93,7 +93,7 @@ By focusing on segmentation-related questions and providing both the JSON file a
 
 | Question ID | Questions                                        | Question ID | Questions                                             |
 | ----------- | ------------------------------------------------ | ----------- | ----------------------------------------------------- |
-| 1           | Where exactly in the image is the polyp located? | 19          | Where exactly in the image is the instrument located? |
+| 18           | Where exactly in the image is the polyp located? | 19          | Where exactly in the image is the instrument located? |
 
 ## Preliminary Schedule
 * 13 February 2023: Release of the training and validation sets
