@@ -26,7 +26,7 @@ The provided data is based on the Hyper Kvasir dataset [datasets.simula.no/hyper
 
 For task 1 (VQA) and task 2 (VQG), we provide at 2,000 image samples. Not all questions will be relevant to the provided image, and we expect the submissions to be able to handle cases where there is no correct answer.
 
-For task 3 (VLQA), we provide 500 images with question and segmentation mask pairs. This part of the data will be based on the segmentation part of HyperKvasir and Kvasir Instrument.
+For task 3 (VLQA), we provide images with question and segmentation mask pairs. This part of the data will be based on the segmentation part of HyperKvasir and Kvasir Instrument.
 
 The dataset for both task can be downlaoded below.
 
