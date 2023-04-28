@@ -1,6 +1,6 @@
 
 **Updates**
-- 28-04-2023 - *Added testing datasert*
+- 28-04-2023 - *Added testing dataset*
 - 01-03-2023 - *Updated dataset with instrument segmentation masks*
 
 # ImageCLEFmed-MEDVQA-GI-2023
